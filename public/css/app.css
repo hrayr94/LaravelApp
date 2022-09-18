@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+@charset "UTF-8";
+/* line 1, /Users/alex/Code/elixir/elixirforum/web/static/css/app.scss */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff; }
+:root{
+    --color-primary: #f00;
+    --color-secondary: #0f0;
+    --color-tertiary: #00f;
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+}
